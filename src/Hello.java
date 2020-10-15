@@ -11,6 +11,7 @@ public static void main(String[] args) {
     Calcul calcul=new Calcul();
     System.out.println("résultat d'addition de "+a+" + "+b+" = "+calcul.Sum(a, b));
     System.out.println("résultat multiplication de "+a+" * "+b+" = "+calcul.multiplication(a, b));
+    System.out.println("résultat puissance de "+a+" puissance "+b+" = "+calcul.puissance(a, b));
 
     
 	
