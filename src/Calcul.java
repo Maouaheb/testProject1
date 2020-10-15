@@ -7,7 +7,7 @@ public int multiplication(int a, int b) {
 	return a*b;
 }
 public int puissance(int a, int b) {
-	int puissance=a;
+	int puissance=b;
 	for(int i=1;i<b;i++){
 	puissance=puissance*a;
 	}
