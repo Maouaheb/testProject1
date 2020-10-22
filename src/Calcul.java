@@ -11,7 +11,7 @@ public class Calcul {
 	public int puissance(int a, int b) {
 		int puissance = b;
 		for (int i = 1; i < b; i++) {
-			puissance = puissance * a;
+			puissance = 1;
 		}
 		return puissance;
 	}
