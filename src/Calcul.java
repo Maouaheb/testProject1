@@ -16,5 +16,5 @@ public class Calcul {
 		return puissance;
 	}
 
-	int b;
+	
 }
