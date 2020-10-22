@@ -15,6 +15,7 @@ public class Calcul {
 		}
 		return puissance;
 	}
+	public int sous
 
 	
 }
