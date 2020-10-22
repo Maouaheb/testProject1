@@ -13,14 +13,6 @@ public int puissance(int a, int b) {
 	}
 	return puissance;
 }
-	public int soustraction(int a, int b){
-	
-	if(a>=b){
-	return a-b;
-	}
-	else return b-a;
-	
-	}
 
 
 }
