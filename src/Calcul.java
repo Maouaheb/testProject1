@@ -21,5 +21,5 @@ public class Calcul {
 		}
 		else return b-a;
 	}
-	int a=0;
+	int a=7;
 }
