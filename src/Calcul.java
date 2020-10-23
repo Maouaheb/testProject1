@@ -15,6 +15,11 @@ public class Calcul {
 		}
 		return puissance;
 	}
-
+	public int soustraction (int a, int b) {
+		if (a>b) {
+			return a-b;
+		}
+		else return b-a;
+	}
 	
 }
